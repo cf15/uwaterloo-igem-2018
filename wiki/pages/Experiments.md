@@ -200,3 +200,16 @@ _Pouring and running your gel:_
 1. Pipette up and down to mix. 
 1. Label cryovial tube appropriately and update the strain list.    
 1. Store in -80°C freezer. 
+
+##Competent cell preparation
+1. Innoculate 100mL of LB with 100uL of overnight culture and grow at 37°C to an OD of 0.368,  
+1. Place cells on ice once they reached an OD of 0.368 and chilled for 20-30min (swirling periodically for even cooling)
+1. After 20 min split culture into 2 cold falcon tubes. 50ml each and then centrifuge at 4 degrees for 15min 13000g
+1. Decant LB and resuspend each in 10mL cold MgcL2 
+1. Centrifuge for 15min at 4 degrees 13000g
+1. Decant and re-suspend each  in 10mL ice cold CaCl2 and sit on ice for 20min
+1. Centrifuge 15 min 4 degrees 2000g (2 times because the pellet was garbage)
+1. Decant and re-suspend in 5mL cold CaCl2 + 15% glycerol
+1. Alliquot 50ul into sterile 1.5mL microfuge tubes on ice
+2. Flash freeze tubes using liquid nitrogen and place in -80°C freezer. 
+
