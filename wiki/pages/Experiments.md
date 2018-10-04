@@ -30,9 +30,9 @@ The NanoDrop (ND-1000) is a small-scale spectrophotometer that can detect DNA co
 3. Place samples in thermocycler. 
 <table> 
 <th>     </th>
-<th> Q5 </th> 
-<th> Taq </th> 
-<th> Phusion </th> 
+<th colspan = "2" > Q5 </th> 
+<th colspan = "2" > Taq </th> 
+<th colspan = "2" > Phusion </th> 
 <tr> 
 <td> Step </td> 
 <td>Temperature (in C) </td>
