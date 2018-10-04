@@ -154,3 +154,27 @@ _Pouring and running your gel:_
 7. Repeat wash (Step 6). 
 8. Transfer column to a clean 1.5 ml microfuge tube. Use care to ensure that the tip of the column has not come into contact with the flow-through. If in doubt, re-spin for 1 minute before placing into clean microfuge tube. 
 9. Add ≥ 6 μl of DNA Elution Buffer to the centre of the matrix. Wait for 1 minute, and spin for 1 minute to elute DNA. 		 	
+
+##DNA Purification
+1. Dilute sample with DNA Cleanup Binding Buffer according to the table below. Mix well by pipetting up and down or flicking the tube. Do not vortex. A starting sample volume of 20–100 μl is recommended.
+<table>
+<th> Sample type </th>
+<th> Ratio of binding buffer : sample </th>
+<tr> 
+<td> dsDNA > 2 kb (plasmids, gDNA) </td>
+<td> 2:1 </td> 
+</tr>
+<tr> 
+<td> dsDNA < 2 kb (some amplicons, fragments) </td>
+<td> 5:1 </td> 
+</tr>
+<tr> 
+<td> ssDNA (cDNA, M13) </td>
+<td> 7:1 </td> 
+</tr>
+</table>
+1. Insert column into collection tube and load sample onto column. Spin for 1 minute, then discard flow-through. 
+1. Re-insert column into collection tube. Add 200 μl DNA Wash Buffer and spin for 1 minute. Discard flow-through. 
+1. Repeat wash (Step 3). 	
+1. Transfer column to a clean 1.5 ml microfuge tube. Use care to ensure that the tip of the column does not come into contact with the flow-through. If in doubt, re-spin for 1 minute to ensure traces of salt and ethanol are not carried over to next step. 
+1. Add ≥ 6 μl of DNA Elution Buffer to the center of the matrix. Wait for 1 minute, then spin for 1 minute to elute DNA. 
