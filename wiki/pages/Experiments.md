@@ -178,3 +178,25 @@ _Pouring and running your gel:_
 1. Repeat wash (Step 3). 	
 1. Transfer column to a clean 1.5 ml microfuge tube. Use care to ensure that the tip of the column does not come into contact with the flow-through. If in doubt, re-spin for 1 minute to ensure traces of salt and ethanol are not carried over to next step. 
 1. Add ≥ 6 μl of DNA Elution Buffer to the center of the matrix. Wait for 1 minute, then spin for 1 minute to elute DNA. 
+
+##Heat shock transformation  
+1. Acquire ice and enough competent cells for your experimental samples and controls.
+1. Thaw competent cells on ice. 
+1. Get new 1.5ml tubes, and label them with your different sample names. One tube will be a positive control (e.g. uncut vector alone) to test if your transformation technique worked.
+1. Add 50 μL of competent cells to each labelled tube and then add your DNA. If DNA is from a ligation, add the entire volume into the tubes. If it is from a miniprep, usually add 1-10 μL depending on the DNA concentration.
+1. Incubate on ice for 30 minutes.
+1. Heat shock at 42℃ for 45 seconds and then immediately put the tubes back onto ice.
+1. Incubate on ice for 5 minutes  
+1. Add 750 μL of LB broth to each tube then incubate at 37℃ for 45 minutes - 1 hour with shaking.
+1. After incubation you will plate the cells onto selective media so only transformants will grow.
+
+##Frozen stock preparation 
+1. Prepare an overnight culture of the cells that are to be made into frozen stock. 
+1. Aliquot 1 mL of overnight culture into a 1.5 mL microfuge tube. 
+1. Pellet cells by spinning for 1 minute at 16,000 x g. Discard supernatant.    
+1. Resuspend in 1 mL fresh liquid broth. 
+1. In a 1.5 mL cryovial tube, add 150 uL of stock glycerol solution. 
+1. To that cryovial, add 850 uL of freshly resuspended cells (from step 4). 
+1. Pipette up and down to mix. 
+1. Label cryovial tube appropriately and update the strain list.    
+1. Store in -80°C freezer. 
