@@ -212,4 +212,4 @@ _Pouring and running your gel:_
 1. Decant and re-suspend in 5mL cold CaCl2 + 15% glycerol
 1. Alliquot 50ul into sterile 1.5mL microfuge tubes on ice
 2. Flash freeze tubes using liquid nitrogen and place in -80°C freezer. 
-
+ 
